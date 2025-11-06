@@ -13,3 +13,4 @@ This project demonstrates advanced Excel skills using real business data, includ
 Open Excel-portfolio-project.xlsx and start with the Dashboard sheet. Use slicers/filters to explore different data dimensions.
 
 Skills Demonstrated: Data Analysis, Dashboarding, Excel Formulas, Business Intelligence
+
